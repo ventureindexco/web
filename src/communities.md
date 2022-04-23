@@ -28,6 +28,4 @@
 
 #### Philippine TBIs
 
-- [Facebook Group](https://www.facebook.com/groups/415694698844734/
-
-)
+- [Facebook Group](https://www.facebook.com/groups/415694698844734/)
