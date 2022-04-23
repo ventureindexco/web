@@ -3,11 +3,11 @@ authors = ["joshxyzhimself"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Example Title"
-description = "Example description."
+title = "Venture Index"
+description = "Indexing the Philippine startup ecosystem."
 
 [output.html]
 git-repository-icon = "fa-github"
-git-repository-url = "https://github.com/joshxyzhimself/mdbook-template"
-edit-url-template = "https://github.com/joshxyzhimself/mdbook-template/edit/main/{path}"
-# cname = "mdbook-template.jxyz.co"
+git-repository-url = "https://github.com/ventureindexco/web"
+edit-url-template = "https://github.com/ventureindexco/web/edit/main/{path}"
+cname = "ventureindex.co"
