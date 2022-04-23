@@ -41,3 +41,16 @@
 #### Startup PH: Marketing
 
 - [Facebook Group](https://www.facebook.com/groups/342788319414143/)
+
+#### Hackathon Hub Philippines
+
+- [Facebook Group](https://www.facebook.com/groups/philippinehackathons/)
+
+#### BlockchainSpace Philippines
+
+- [Facebook Group](https://www.facebook.com/groups/blockchainspaceph/)
+
+#### #CryptoPH
+
+- [Telegram Group](https://t.me/hashtagcryptoph)
+
