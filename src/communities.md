@@ -29,3 +29,15 @@
 #### Philippine TBIs
 
 - [Facebook Group](https://www.facebook.com/groups/415694698844734/)
+
+#### Startup Events Philippines
+
+- [Facebook Group](https://www.facebook.com/groups/1197052960315273/)
+
+#### Product PH
+
+- [Facebook Group](https://www.facebook.com/groups/ProductPH/)
+
+#### Startup PH: Marketing
+
+- [Facebook Group](https://www.facebook.com/groups/342788319414143/)
