@@ -1,5 +1,7 @@
 # Communities
 
+## General
+
 #### Startup PH
 
 - [Facebook Group](https://www.facebook.com/groups/219324261492180)
@@ -12,6 +14,14 @@
 - [Facebook](https://www.facebook.com/sinigangvalleyph)
 - [Instagram](https://www.instagram.com/sinigangvalley/)
 - [ClubHouse](https://www.clubhouse.com/club/sinigang-valley)
+
+#### Developh
+
+- [Website](https://developh.org/)
+- [Twitter](https://twitter.com/develophorg)
+- [Facebook](https://www.facebook.com/develophorg)
+- [Facebook Group](https://www.facebook.com/groups/developh/)
+- [Discord](https://discord.com/invite/YMD7TRXVYY)
 
 #### Startup Philippines
 
@@ -30,9 +40,15 @@
 
 - [Facebook Group](https://www.facebook.com/groups/415694698844734/)
 
+#### Philippines Tech Startups
+
+- [Facebook Group](https://www.facebook.com/groups/105035376971054/)
+
 #### Startup Events Philippines
 
 - [Facebook Group](https://www.facebook.com/groups/1197052960315273/)
+
+## Product Management
 
 #### Product PH
 
@@ -42,15 +58,22 @@
 
 - [Facebook Group](https://www.facebook.com/groups/342788319414143/)
 
+## Hackathon
+
 #### Hackathon Hub Philippines
 
 - [Facebook Group](https://www.facebook.com/groups/philippinehackathons/)
 
-#### BlockchainSpace Philippines
+#### Philippine Student Hackathon Community
 
-- [Facebook Group](https://www.facebook.com/groups/blockchainspaceph/)
+- [Facebook Group](https://www.facebook.com/groups/HHPhilippines/)
+
+## Crypto
 
 #### #CryptoPH
 
 - [Telegram Group](https://t.me/hashtagcryptoph)
 
+#### BlockchainSpace Philippines
+
+- [Facebook Group](https://www.facebook.com/groups/blockchainspaceph/)
