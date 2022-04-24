@@ -2,32 +2,16 @@
 
 #### Startup PH Jobs
 
+- [Facebook Group](https://www.facebook.com/groups/277534272382470)
 
-        {
-          name: 'Startup PH Jobs',
-          description: '-',
-          links: [
-            { name: 'Facebook Group', href: 'https://www.facebook.com/groups/277534272382470' },
-          ]
-        },
-        {
-          name: 'Tech & Startup Jobs PH',
-          description: '-',
-          links: [
-            { name: 'Facebook Group', href: 'https://www.facebook.com/groups/450750702024985/' },
-          ]
-        },
-        {
-          name: 'Startup Philippines: Internships',
-          description: '-',
-          links: [
-            { name: 'Facebook Group', href: 'https://www.facebook.com/groups/startupphilippinesinternships/' },
-          ]
-        },
-        {
-          name: 'Internships.ph (Philippines)',
-          description: '-',
-          links: [
-            { name: 'Facebook Group', href: 'https://www.facebook.com/groups/bloguniverse/' },
-          ]
-        }
+#### Tech & Startup Jobs PH
+
+- [Facebook Group](https://www.facebook.com/groups/450750702024985/)
+
+#### Startup Philippines: Internships
+
+- [Facebook Group](https://www.facebook.com/groups/startupphilippinesinternships/)
+
+#### Internships.ph (Philippines)
+
+- [Facebook Group](https://www.facebook.com/groups/bloguniverse/)
