@@ -1,4 +1,4 @@
-# Events
+# Resources
 
 ## Conferences
 
