@@ -1,6 +1,6 @@
 ## Blogs
 
-## Cryptocurrency
+## BitPinas
 
 > "Crypto, NFT, and Play-to-earn news in the Philippines."
 
