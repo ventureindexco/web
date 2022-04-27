@@ -1,6 +1,6 @@
 # Introduction
 
-Venture Index is an attempt to index the Philippines local startup ecosystem.
+Venture Index: Indexing the Philippines local startup ecosystem.
 
 Our goal is to index the following:
 
