@@ -1,8 +1,11 @@
 # Summary
 
 - [Introduction](./introduction.md)
-- [Communities](./communities.md)
-- [Resources](./resources.md)
+- [Funding](./funding/index.md)
+  - [Angels](./funding/angels.md)
+  - [Incubators](./funding/incubators.md)
+  - [Accelerators](./funding/accelerators.md)
+  - [VC Firms](./funding/vc-firms.md)
 - [Services](./services/index.md)
   - [Accounting](./services/accounting.md)
   - [Design](./services/design.md)
@@ -10,3 +13,5 @@
   - [Legal](./services/legal.md)
   - [SMS](./services/sms.md)
   - [VOIP](./services/voip.md)
+- [Communities](./communities.md)
+- [Resources](./resources.md)
