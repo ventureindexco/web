@@ -9,5 +9,5 @@
 
 #### Semaphore
 
-- https://semaphore.co/
-- https://www.facebook.com/semaphoreapi
+- [Website](https://semaphore.co/)
+- [Facebook](https://www.facebook.com/semaphoreapi)

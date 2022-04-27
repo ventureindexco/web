@@ -2,13 +2,12 @@
 
 Venture Index is an attempt to index the Philippines local startup ecosystem.
 
-#### Coverage
+Our goal is to index the following:
 
-Our current goal is to index the following:
-
-- Online communities
+- Startup communities
 - Upcoming and ongoing events
 - Recruitment platforms
+- Funding providers
 - Service providers
 - Startup resources
 

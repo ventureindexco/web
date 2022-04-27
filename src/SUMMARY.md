@@ -1,6 +1,11 @@
 # Summary
 
 - [Introduction](./introduction.md)
+- [Communities](./communities/index.md)
+  - [General](./communities/general.md)
+  - [Competitions](./communities/competitions.md)
+  - [Cryptocurrency](./communities/cryptocurrency.md)
+  - [Recruitment](./communities/recruitment.md) 
 - [Funding](./funding/index.md)
   - [Angels](./funding/angels.md)
   - [Incubators](./funding/incubators.md)
@@ -13,5 +18,4 @@
   - [Legal](./services/legal.md)
   - [SMS](./services/sms.md)
   - [VOIP](./services/voip.md)
-- [Communities](./communities.md)
 - [Resources](./resources.md)

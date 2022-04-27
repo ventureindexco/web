@@ -6,5 +6,5 @@
 
 #### FullSuite
 
-- https://www.full-suite.com/
-- https://www.facebook.com/fullsuite/
+- [Website](https://www.full-suite.com/)
+- [Facebook](https://www.facebook.com/fullsuite/)

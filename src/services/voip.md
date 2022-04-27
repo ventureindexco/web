@@ -11,13 +11,13 @@
 
 #### 3CX
 
-- https://www.3cx.com/phone-system/
+- [Website](https://www.3cx.com/)
 
 #### Amazon Connect
 
-- https://aws.amazon.com/connect/
+- [Website](https://aws.amazon.com/connect/)
 
 #### Five9
 
-- https://www.five9.com/
+- [Website](https://www.five9.com/)
 

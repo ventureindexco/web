@@ -1,5 +1,3 @@
-# Communities
-
 ## General
 
 #### Startup PH
@@ -48,8 +46,6 @@
 
 - [Facebook Group](https://www.facebook.com/groups/1197052960315273/)
 
-## Product Management
-
 #### Product PH
 
 - [Facebook Group](https://www.facebook.com/groups/ProductPH/)
@@ -57,41 +53,3 @@
 #### Startup PH: Marketing
 
 - [Facebook Group](https://www.facebook.com/groups/342788319414143/)
-
-## Hackathon
-
-#### Hackathon Hub Philippines
-
-- [Facebook Group](https://www.facebook.com/groups/philippinehackathons/)
-
-#### Philippine Student Hackathon Community
-
-- [Facebook Group](https://www.facebook.com/groups/HHPhilippines/)
-
-## Crypto
-
-#### #CryptoPH
-
-- [Telegram Group](https://t.me/hashtagcryptoph)
-
-#### BlockchainSpace Philippines
-
-- [Facebook Group](https://www.facebook.com/groups/blockchainspaceph/)
-
-## Recruitment
-
-#### Startup PH Jobs
-
-- [Facebook Group](https://www.facebook.com/groups/277534272382470)
-
-#### Tech & Startup Jobs PH
-
-- [Facebook Group](https://www.facebook.com/groups/450750702024985/)
-
-#### Startup Philippines: Internships
-
-- [Facebook Group](https://www.facebook.com/groups/startupphilippinesinternships/)
-
-#### Internships.ph (Philippines)
-
-- [Facebook Group](https://www.facebook.com/groups/bloguniverse/)
