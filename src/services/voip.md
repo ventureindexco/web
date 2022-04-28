@@ -1,10 +1,5 @@
 ## VOIP
 
-#### Notes
-
-- Identify websites and social links
-- Identify required upfront payments, long-term commitments, or minimum monthly fees.
-
 #### Discussions
 
 - https://www.facebook.com/groups/startupph/posts/5126550064102884/
@@ -21,3 +16,6 @@
 
 - [Website](https://www.five9.com/)
 
+#### Notes
+
+- Include required upfront payments, long-term commitments, or minimum monthly fees.
