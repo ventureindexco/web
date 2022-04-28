@@ -1,5 +1,11 @@
 ## Getting Started
 
+#### What is a Startup?
+
+> “A Startup is a team of entrepreneurial talent developing new innovations, in identifiable and investable form, in progress to validate and capture the value of the created innovation - with ambition to grow fast with scalable business model for maximum impact.”
+
+- [Website](https://www.startupcommons.org/what-is-a-startup.html)
+
 #### YC Startup School
 
 > Learn how to start a company, with help from the world's top startup accelerator - Y Combinator. Startup School is an 8-week online course on how to start a startup."
