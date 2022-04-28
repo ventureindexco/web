@@ -6,6 +6,12 @@
 
 - [Website](https://www.startupcommons.org/what-is-a-startup.html)
 
+#### Startup Development Phases
+
+![Startup Development Phases](https://www.startupcommons.org/uploads/2/1/0/9/21090978/startup-development-phases-v-3-6_orig.png)
+
+- [Website](https://www.startupcommons.org/startup-development-phases.html)
+
 #### YC Startup School
 
 > Learn how to start a company, with help from the world's top startup accelerator - Y Combinator. Startup School is an 8-week online course on how to start a startup."
