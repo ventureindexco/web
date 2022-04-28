@@ -1,4 +1,4 @@
-# Summary
+## Summary
 
 - [Introduction](./introduction.md)
 - [Contributing](./contributing.md)
@@ -20,6 +20,7 @@
   - [SMS](./services/sms.md)
   - [VOIP](./services/voip.md)
 - [Resources](./resources/index.md)
-  - [Blogs](./resources/blogs.md)
   - [Podcasts](./resources/podcasts.md)
   - [Videos](./resources/videos.md)
+  - [Blogs](./resources/blogs.md)
+  - [Books](./books.md)
