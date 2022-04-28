@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](./introduction.md)
+- [Contributing](./contributing.md)
 - [Communities](./communities/index.md)
   - [General](./communities/general.md)
   - [Competitions](./communities/competitions.md)
