@@ -1,17 +1,6 @@
-# mdbook-template
+# web
 
-A template repository for publicly available documentations.
-
-#### Repository Setup
-
-- Create a new repository from mdbook-template.
-  - https://github.com/joshxyzhimself/mdbook-template/generate
-- Configure your GitHub Pages source.
-  - https://github.com/joshxyzhimself/mdbook-template/settings/pages
-  - Use the branch `gh-pages`
-  - Use the folder `/ (root)`
-- Configure your `book.toml` file.
-  - Set the authors, title, description, updated repository urls, cname.
+Official repository of [Venture Index](https://ventureindex.co/).
 
 #### Usage
 
