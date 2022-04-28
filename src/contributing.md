@@ -2,15 +2,19 @@
 
 Your ideas, feedback, and suggestions are welcome.
 
-#### Contribute thru Google Forms
+#### Twitter
 
-- You may send us your feedback at our [Google Forms Feedback Form](https://forms.gle/71aUtiiSEHkUywwH9)
+- You may tweet to us or message us at our [Twitter Account](https://twitter.com/ventureindexco)
 
-#### Contribute thru Telegram
+#### Telegram
 
-- You may send us your feedback at our [Telegram Group](https://t.me/ventureindexco).
+- You may message us at our [Telegram Group](https://t.me/ventureindexco).
 
-#### Contribute thru GitHub
+#### Google Forms
+
+- You may submit your feedback at our [Google Forms Feedback Form](https://forms.gle/71aUtiiSEHkUywwH9)
+
+#### GitHub
 
 - This website's entire source code is publicly available on our [GitHub Repository](https://github.com/ventureindexco/web). We use the [Markdown](https://commonmark.org/help/) syntax to write our pages.
 - To suggest an edit on specific pages, just click the top-right edit button of that page. Submitting your proposed changes will create a "pull-request" which we will review.
