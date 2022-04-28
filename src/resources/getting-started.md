@@ -29,3 +29,7 @@
 > "We spend a lot of time advising startups. Though one-on-one advice will always be crucial, we thought it might help us scale Y Combinator if we could distill the most generalizable parts of this advice into a sort of playbook we could give YC and YC Fellowship companies."
 
 - [Website](https://playbook.samaltman.com/)
+
+#### Startup Idea Checklist
+
+- [Website](https://www.defmacro.org/2019/03/26/startup-checklist.html)
