@@ -30,6 +30,10 @@
 
 - [Website](https://playbook.samaltman.com/)
 
+#### Paul Graham's Essays
+
+- [Website](http://www.paulgraham.com/articles.html)
+
 #### Startup Idea Checklist
 
 - [Website](https://www.defmacro.org/2019/03/26/startup-checklist.html)
