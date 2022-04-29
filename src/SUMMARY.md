@@ -22,7 +22,7 @@
   - [Accounting](./services/accounting.md)
   - [Coworking Spaces](./services/coworking-spaces.md)
   - [Design](./services/design.md)
-  - [Engineering](./eservices/ngineering.md)
+  - [Engineering](./eservices/engineering.md)
   - [Legal](./services/legal.md)
   - [Payments](./services/payments.md)
   - [SMS](./services/sms.md)
