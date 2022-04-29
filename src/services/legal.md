@@ -1,5 +1,9 @@
 ## Legal
 
+#### Permitly
+
+- [Website](https://permitly.ph/)
+
 #### FullSuite
 
 - [Website](https://www.full-suite.com/)
