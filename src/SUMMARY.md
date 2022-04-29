@@ -4,6 +4,7 @@
 - [Contributing](./contributing.md)
 - [Resources](./resources/index.md)
   - [Getting Started](./resources/getting-started.md)
+  - [Recommended](./recommended.md)
   - [Podcasts](./resources/podcasts.md)
   - [Videos](./resources/videos.md)
   - [Blogs](./resources/blogs.md)
