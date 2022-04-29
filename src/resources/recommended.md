@@ -1,4 +1,4 @@
-## Featured
+## Recommended
 
 #### SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters
 
