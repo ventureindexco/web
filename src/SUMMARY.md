@@ -26,5 +26,5 @@
   - [Legal](./services/legal.md)
   - [Payments](./services/payments.md)
   - [SMS](./services/sms.md)
-  - [Virtual Offices](./virtual-offices.md)
+  - [Virtual Offices](./services/virtual-offices.md)
   - [VOIP](./services/voip.md)
