@@ -24,6 +24,10 @@
 
 - [Website](https://www.justpay.to/)
 
+#### Lynx Global
+
+- [Website](https://lynxglobal.io/)
+
 #### NextPay
 
 - [Website](https://nextpay.world/)

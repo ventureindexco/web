@@ -12,3 +12,7 @@
 > "The largest committed private investors network in the Philippines."
 
 - [Website](https://www.main.ph/)
+
+#### John Schaub
+
+- [LinkedIn](https://ca.linkedin.com/in/johnschaub)
