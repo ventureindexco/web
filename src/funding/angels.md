@@ -15,4 +15,6 @@
 
 #### John Schaub
 
+> "Investing in FinTech and interesting early stage companies."
+
 - [LinkedIn](https://ca.linkedin.com/in/johnschaub)
